@@ -1,0 +1,4 @@
+`define READ_RX_FIFO_STATE  2'b00
+`define READ_RX_FIFO 2'b01
+`define READ_TX_FIFO_STATE 2'b10
+`define WRITE_TX_FIFO 2'b11
